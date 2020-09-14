@@ -1,1 +1,10 @@
-
+ Stack memory allocation--
+ 1) Named allocation
+ 2) Limitations 
+ ex- int a[10];
+ 
+ Heap memory allocation--
+ 1) unnamed allocation
+ 2) no limitations in memory usage 
+ ex- int * p= new int [10]; //c++
+ ex- int *p =(int*)malloc(sizeof(int)*10);//c
